@@ -1,0 +1,18 @@
+数据库框架：
+realm
+greendao
+litepal
+网络请求框架：
+volley  加载大图片有问题
+xUtils
+okHttp  下载2G内存的文件会堆积在APP内存中
+retrofit
+
+网络请求
+    url
+    params
+    listener
+返回数据
+    json image file
+
+
